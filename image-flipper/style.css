@@ -1,0 +1,30 @@
+
+body{
+    margin: 0%;
+}
+.main-container{
+    
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.container{
+    width: 500px;
+    height: auto;
+}
+
+button{
+    display: block;
+    padding: 8px;
+    border-radius: 8px;
+    background:linear-gradient( 68.3deg,  rgba(245,177,97,1) 0.4%, rgba(236,54,110,1) 100.2% );
+    color: white;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+
